@@ -1,9 +1,3 @@
-@media print {
-  .row {
-    display: block !important;
-  }
-}
-
 .my-name {
   font-size: 4rem;
 }
