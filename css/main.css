@@ -1,3 +1,12 @@
+@media print {
+  body {
+    font-size: 1.17rem;
+    .col-12 {
+      page-break-inside:avoid;
+    }
+  }
+}
+
 .my-name {
   font-size: 4rem;
 }
