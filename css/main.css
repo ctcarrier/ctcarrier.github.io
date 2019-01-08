@@ -5,8 +5,20 @@
       page-break-inside:avoid;
     }
   }
+  .jumbotron {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
 }
 
 .my-name {
   font-size: 4rem;
+}
+
+.jumbotron span.oi {
+  min-width: 32px;
+}
+
+.experience h4 {
+  font-weight: bold;
 }
