@@ -1,7 +1,7 @@
 @media print {
   body {
     font-size: 1.17rem;
-    .col-12 {
+    .pb-4 {
       page-break-inside:avoid;
     }
   }
